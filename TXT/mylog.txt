@@ -19,3 +19,5 @@ ZCZC W01 300 L11 Assignment #01
 ZCZC W01 60 L06 References/Books/Documents/GSGS related
 ZCZC W01 15 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 30 L64 Helping OS related problem to a friend.
+ZCZC W01 100 L02 ZOOM meetings related
+ZCZC W01 20 L05 Quiz related
