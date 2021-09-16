@@ -1,8 +1,8 @@
 ---
-permalink: /links/
+permalink: /LINKS/
 ---
 
-[Home](https://andhikalfariz.github.io/os212/) | [My Repo](https://github.com/andhikalfariz/os212) | [Log](https://github.com/andhikalfariz/os212/tree/master/TXT/mylog.txt) |  [Links](https://andhikalfariz.github.io/os212/links/)
+[Home](https://andhikalfariz.github.io/os212/) | [My Repo](https://github.com/andhikalfariz/os212) | [Log](https://github.com/andhikalfariz/os212/tree/master/TXT/mylog.txt) |  [Links](https://andhikalfariz.github.io/os212/LINKS/)
 
 # LINKS
 
