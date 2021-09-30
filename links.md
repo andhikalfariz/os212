@@ -33,3 +33,21 @@ permalink: /LINKS/
 
 9. [Investigating Metadata](https://exposingtheinvisible.org/en/guides/behind-the-data-metadata-investigations/)<br>
      Metadata is structured data, marked with a code so that it can be processed by a computer, describing the characteristics of information-carrying units. This website will discuss how metadata is used to expose, protect and verify abuse and excesses of power. 
+
+10. [Little and Big Endian Mystery](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+     Little and big endian are two ways to store multibyte data types (int, float, etc). In little endian machines, the last byte of the binary representation of the multibyte data type is stored first. Whereas in big endian machines, the first byte of the binary representation of the multibyte data type is stored first. This website will discuss in depth about little endian and big endian and the mysteries between the two.
+     
+11. [The Role of Memory on The Computer](https://technick.net/guides/hardware/umg/01_002/)<br>
+     Computers use Memory (RAM) to temporarily store instructions and data needed to complete tasks. This allows the computer's CPU to access instructions and data stored in memory very quickly. This website will discuss how memory acts as one of the most important indicators in a computer.
+     
+12. [Introduction to Memory Management](https://www.studytonight.com/operating-system/memory-management)<br>
+     Main memory refers to the physical memory which is the internal memory to the computer. The computer can only change the data that is in main memory. Therefore, every program we run and every file we access must be copied from the storage device into main memory. On this website, we will learn about memory protection, memory allocation, fragmentation, and much more!
+
+13. [Contiguous VS Non-Contiguous Memory Allocation](https://www.studytonight.com/operating-system/difference-between-contiguous-and-noncontiguous-memory-allocation)<br>
+     In the Operating System, there are two techniques for memory allocation, namely Contiguous Memory Allocation and Non-Contiguous Memory Allocation. In the tutorial on this website, we will learn what are the differences between the two memory allocations.
+     
+14. [Journey Across Static and Dynamic Libraries](https://www.internalpointers.com/post/journey-across-static-dynamic-libraries)<br>
+     The nature of the library determines how the linker links to the final execution of a program. Compiled libraries have two forms, namely static libraries and dynamic libraries. Each format has advantages, disadvantages, and differs in how it is handled during the linking stage. This website will dig deeper into the meaning, journey, and differences between static libraries and dynamic libraries.
+     
+15. [Virtual Memory in Operating Systems](https://www.studytonight.com/operating-system/virtual-memory-in-operating-systems)<br>
+    Virtual Memory is a technique that separates logical memory from physical memory. Logical memory is a collection of all pages of a program. Without virtual memory, logical memory will be directly brought to main memory. This website will discuss the benefits, needs, and how to execute programs in virtual memory.
