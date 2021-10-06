@@ -51,3 +51,12 @@ permalink: /LINKS/
      
 15. [Virtual Memory in Operating Systems](https://www.studytonight.com/operating-system/virtual-memory-in-operating-systems)<br>
     Virtual Memory is a technique that separates logical memory from physical memory. Logical memory is a collection of all pages of a program. Without virtual memory, logical memory will be directly brought to main memory. This website will discuss the benefits, needs, and how to execute programs in virtual memory.
+
+16. [An introduction to virtual memory](https://www.internalpointers.com/post/introduction-virtual-memory)<br>
+    Virtual memory is a technique that separates logical memory from physical memory. This website will discuss the explanation of virtual memory, the benefits of virtual memory, where all memory comes from, and how virtual memory is short
+
+17. [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
+    Cache Memory is a small memory that is temporary. On this website will be discussed about the memory level, type, performance, and mapping of the cache.
+    
+18. [What is Memory Allocation in Operating System?](https://binaryterms.com/static-and-dynamic-memory-allocation.html)<br
+    Memory allocation is used to reserve a memory block of a specified size and returns a void pointer which is the memory address of the first memory block allocated which can be cast to another form pointer. This website will discuss an in-depth explanation of memory allocation, memory allocation types, and the advantages and disadvantages of each type.
