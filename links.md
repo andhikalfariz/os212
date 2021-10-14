@@ -58,5 +58,26 @@ permalink: /LINKS/
 17. [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/)<br>
     Cache Memory is a small memory that is temporary. On this website will be discussed about the memory level, type, performance, and mapping of the cache.
     
-18. [What is Memory Allocation in Operating System?](https://binaryterms.com/static-and-dynamic-memory-allocation.html)<br
+18. [What is Memory Allocation in Operating System?](https://binaryterms.com/static-and-dynamic-memory-allocation.html)<br>
     Memory allocation is used to reserve a memory block of a specified size and returns a void pointer which is the memory address of the first memory block allocated which can be cast to another form pointer. This website will discuss an in-depth explanation of memory allocation, memory allocation types, and the advantages and disadvantages of each type.
+
+19. [Difference between Concurrency and Parallelism](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)<br>
+    This website will discuss the difference between concurrency and parallelism. In addition, this website will also explain in more detail the meaning of these two things.
+    
+20. [Multitasking vs Multithreading](https://techdifferences.com/difference-between-multitasking-and-multithreading-in-os.html) <br>
+    Many people are still confused about the difference between multitasking and multithreading, this website will discuss in depth the differences between the two. We will discuss the differences between the various base comparisons so that we can understand better.
+    
+21. [How To Manage Processes from the Linux Terminal: 10 Commands You Need to Know](https://www.howtogeek.com/107217/how-to-manage-processes-from-the-linux-terminal-10-commands-you-need-to-know/)<br>
+    The Linux terminal has a number of useful commands that can display running processes, stop them, and change their priority level. This website will tell you about classic and traditional commands, as well as some of the more useful, modern commands that make it easier for users.
+    
+22. [Process vs Thread: What’s the difference?](https://www.guru99.com/difference-between-process-and-thread.html)<br>
+    This website will discuss the differences between processes and threads, which are still often confused by many people. Understanding, key differences, and properties will also be described in detail on this website.
+  
+23. [Learn and use fork(), vfork(), wait() and exec() system calls across Linux Systems](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)<br>
+    In Linux/Unix based Operating Systems, it is important to understand about fork and vfork system calls, how they behave, how we can use them and the differences between them. To understand this, this website will help us to find out in depth. This site will discuss what they are, fork, vfork, exec and wait system calls, their distinguishing characteristics and how they can be better used.
+    
+24. [Is Concurrency Really Increase the Performance?](https://towardsdatascience.com/is-concurrency-really-increases-the-performance-8cd06dd762f6)<br>
+    If you want to improve the performance of your program, one possible solution is to add concurrent programming techniques. Basically, in concurrent execution, multiple threads of the same program are executed at the same time. This website will help you to understand further whether concurrency can really improve performance. Here, we will discuss the explanation of concurrency, various cases, problems, and serial programs related to performance increase.
+    
+23. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+    Semaphore is a non-negative variable and is shared between threads. This variable is used to troubleshoot critical parts and to achieve process synchronization in a multiprocessing environment. This website will discuss the types of Semaphores, P and V operations, and points about P and V operations.
