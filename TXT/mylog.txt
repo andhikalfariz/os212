@@ -75,3 +75,17 @@ ZCZC W05 30 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W05 120 L32 YouTube: study, etc.
 ZCZC W05 60 L64 Helping OS related problem to a friend.
 ZCZC W05 60 L73 Gaming
+ZCZC W06 60 L01 SCELE/Discord related
+ZCZC W06 120 L02 ZOOM meetings related
+ZCZC W06 60 L03 GitHub related
+ZCZC W06 30 L04 GitHub Pages related
+ZCZC W06 60 L05 Quiz related
+ZCZC W06 60 L06 References/Books/Documents/GSGS related
+ZCZC W06 30 L07 Demo related
+ZCZC W06 30 L08 AsDos: asking, etc.
+ZCZC W06 90 L16 Assignment #06
+ZCZC W06 30 L23 Linux CLI including tar, etc.
+ZCZC W06 30 VirtualBox: install GNU/Linux, etc.
+ZCZC W06 180 YouTube: study, etc.
+ZCZC W06 120 L64 Helping OS related problem to a friend.
+ZCZC W06 60 L73 Gaming
