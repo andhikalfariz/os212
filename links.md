@@ -79,5 +79,35 @@ permalink: /LINKS/
 24. [Is Concurrency Really Increase the Performance?](https://towardsdatascience.com/is-concurrency-really-increases-the-performance-8cd06dd762f6)<br>
     If you want to improve the performance of your program, one possible solution is to add concurrent programming techniques. Basically, in concurrent execution, multiple threads of the same program are executed at the same time. This website will help you to understand further whether concurrency can really improve performance. Here, we will discuss the explanation of concurrency, various cases, problems, and serial programs related to performance increase.
     
-23. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+25. [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
     Semaphore is a non-negative variable and is shared between threads. This variable is used to troubleshoot critical parts and to achieve process synchronization in a multiprocessing environment. This website will discuss the types of Semaphores, P and V operations, and points about P and V operations.
+
+26. [Dining Philosopher Problem Using Semaphores](https://www.geeksforgeeks.org/dining-philosopher-problem-using-semaphores/) <br>
+The dining philosopher is a classic synchronization problem as it demonstrates a large class of concurrency control problems. This website will tell you the details about the definition of dining philosopher, semaphore solution to dining philosopher, and the code.
+
+27. [What’s Race Condition?](https://searchstorage.techtarget.com/definition/race-condition) <br>
+A race condition is a situation that may occur inside a critical section. This happens when the result of multiple thread execution in critical section differs according to the order in which the threads execute. If you want to learn more about race condition, this website will help you to understand it because it contains the meaning of race condition in details, security vulnerabilities caused by race conditions, and how to prevent race conditions.
+
+28. [All about Semaphores in Operating System](https://www.studytonight.com/operating-system/introduction-to-semaphores) <br>
+Semaphore is a variable that can hold only a non-negative Integer value, shared between all the threads, with operations wait and signal. This website will guide you to undertanding more about everything that is related to semaphores because it contains about semaphores history, definition, properties and types of semaphores.
+
+29. [Petersons Algorithm in Process Synchronization](https://www.geeksforgeeks.org/petersons-algorithm-in-process-synchronization/) <br>
+Petersons Algorithm is used to synchronize two processes. It uses two variables, a bool array flag of size 2 and an int variable turn to accomplish it. This website contains producer consumer problem, explanation of petersons algorithm, and C program to implement petersons algorithm.
+
+30. [Mutual exclusion in distributed system](https://www.geeksforgeeks.org/mutual-exclusion-in-distributed-system/) <br>
+Mutual exclusion is a concurrency control property which is introduced to prevent race conditions. If you are interested in mutual exclusion, this website is a perfect way to learn because it will help you understand about mutual exclusion in single computer system vs distributed system, requirements of mutual exclusion algorithm, and solution to distributed mutual exclusion.
+
+31. [Banker’s Algorithm in Operating System Example](https://www.guru99.com/bankers-algorithm-in-operating-system.html)<br>
+Banker’s algorithm used to avoid deadlock and allocate resources safely to each process in the computer system. It helps you to identify whether a loan will be given or not. This website will discuss about goals, notations, characteristics, disadvantage, and summary of banker’s algorithm.
+
+32. [Understanding Readers-Writers Problem](https://www.tutorialspoint.com/readers-writers-problem)<br>
+The readers-writers problem is a classical problem of process synchronization, it relates to a data set such as a file that is shared between more than one process at a time. To undertanding the details of readers-writers problem, this website will help you a lot because it contains about the meaning of readers-writers problem in general, reader process and writer process, complete with their codes.
+
+33. [Message Passing Model of Process Communication](https://www.tutorialspoint.com/message-passing-model-of-process-communication)<br>
+Message passing model allows multiple processes to read and write data to the message queue without being connected to each other. This website will discuss about process communication, message passing model, diagram that demonstrates message passing model, advantages and disadvantage of message passing model.
+
+34. [OS Critical Section Problem](https://www.javatpoint.com/os-critical-section-problem)<br>
+The critical section is a code segment where the shared variables can be accessed. For those who have interest in this topic, this website will help you to learn deaply about critical section because it will contain about the meaning of critical section problem in general and requirements of synchronization mechanisms that consist of primary and secondary along with simulated image.
+
+35. [Strategies for handling Deadlock](https://www.javatpoint.com/os-strategies-for-handling-deadlock)<br>
+Deadlock is a situation where a process or a set of processes is blocked, waiting for some other resource that is held by some other waiting process. If you experience deadlock, don’t need to worry because this website will tell you how to solve this problem. It will contains about some strategies for handling deadlock such as deadlock ignorance, deadlock prevention, deadlock avoidance, and deadlock detection and recovery.
