@@ -111,3 +111,33 @@ The critical section is a code segment where the shared variables can be accesse
 
 35. [Strategies for handling Deadlock](https://www.javatpoint.com/os-strategies-for-handling-deadlock)<br>
 Deadlock is a situation where a process or a set of processes is blocked, waiting for some other resource that is held by some other waiting process. If you experience deadlock, don’t need to worry because this website will tell you how to solve this problem. It will contains about some strategies for handling deadlock such as deadlock ignorance, deadlock prevention, deadlock avoidance, and deadlock detection and recovery.
+
+36. [Scheduling in Real Time Systems](https://www.geeksforgeeks.org/scheduling-in-real-time-systems/)<br>
+Real-time systems are systems that carry real-time tasks. These tasks need to be performed immediately with a certain degree of urgency. This website will tell you the details about real time scheduling in general and specific also the classification of scheduling algorithm.
+
+37. [CFS: Completely fair process scheduling in Linux](https://opensource.com/article/19/2/fair-scheduling-linux)<br>
+Completely fair scheduling (CFS), which became part of the Linux 2.6.23 kernel in 2007, is the scheduling class for normal (as opposed to real-time) processes and therefore is named SCHED_NORMAL. If you want to dig more about CFS, this website will help you to understand it because it contains the detail meaning of CFS, some core concepts, classic preemptive scheduling vs CFS, special features, and CFS implementation.
+
+38. [Difference between Preemptive and Cooperative Multitasking](https://www.geeksforgeeks.org/difference-between-preemptive-and-cooperative-multitasking/)<br>
+Multitasking is the methodology of executing multiple tasks or processes concurrently over a period of time. Preemptive and cooperative multitasking are two types of multitasking. Many people still counfused about the difference between Preemptive and Cooperative Multitasking. But, don’t worry because this website will help you guys to know exactly the difference between two of them because it will discuss about definition of preemptive multitasking and cooperative multitasking, and difference between preemptive multitasking and cooperative multitasking in many aspects.
+
+39. [Explore load balancing](https://www.citrix.com/en-id/solutions/app-delivery-and-security/load-balancing/what-is-load-balancing.html)<br>
+Load balancing is defined as the methodical and efficient distribution of network or application traffic across multiple servers in a server farm. Each load balancer sits between client devices and backend servers. This website contains the discussion about load balancers definition and how do they work, hardware- vs software-based load balancers, common load balancing algorithms, and why load balancing is necessary.
+
+40. [An Overview of Non-Uniform Memory Access](https://cacm.acm.org/magazines/2013/9/167139-an-overview-of-non-uniform-memory-access/fulltext)<br>
+Non-uniform memory access (NUMA) is the phenomenon that memory at various points in the address space of a processor have different performance characteristics. If you are interested in NUMA, this website is a perfect way to learn because it will help you understand about NUMA specifically, how operating systems handle NUMA memory, and how does linux handle NUMA.
+
+41. [Multiple-Processor Scheduling in Operating System](https://binaryterms.com/multiple-processor-scheduling.html)<br>
+Multiple processor scheduling or multiprocessor scheduling focuses on designing the scheduling function for the system which is consist of more than one processor. With multiple processors in the system, the load sharing becomes feasible but it makes scheduling more complex. This website will discuss about definition, keynotes, and techniques of of multiprocessor scheduling.
+
+42. [States of a Process](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/)<br>
+A process is a program in execution which then forms the basis of all computation. A process is an ‘active’ entity as opposed to the program which is considered to be a ‘passive’ entity. Attributes held by the process include hardware state, memory, CPU, etc. To undertanding the details of process states, this website will help you a lot because it contains about the different type of process states, CPU and IO bound processes, types of schedulers, multiprogramming, and degree of multiprogramming.
+
+43. [Understanding Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/)<br>
+Many computers have only one CPU, so threads must share the CPU with other threads. The execution of multiple threads on a single CPU, in some order, is called scheduling. If you still counfused about this topic, this website will guide you to understand more about it because it will discuss about two boundary scheduling involved by threads, Leightweight Process (LWP), contention scope, and allocation domain including each process of those two controls.
+
+44. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+CPU scheduling is a process that allows one process to use the CPU while the execution of another process is on hold(in waiting state) due to unavailability of any resource like I/O etc, thereby making full use of CPU. For those who are interested in this topic, this website will help you to learn deaply about CPU scheduling because it contains about different time with respect to a process, wWhy we need scheduling, objectives of process scheduling algorithm, different scheduling algorithms, and many more.
+
+45. [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)<br>
+Big O notation is a convenient way to describe how fast a function is growing. This website will dig more about what is Big O Notation and why does it matter, formal definition of Big O notation, Big O, Little O, Omega & Theta, complexity comparison between typical Big Os, time & space complexity, and best, average, worst, expected complexity.
