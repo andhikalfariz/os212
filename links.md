@@ -141,3 +141,33 @@ CPU scheduling is a process that allows one process to use the CPU while the exe
 
 45. [What is Big O Notation Explained: Space and Time Complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/)<br>
 Big O notation is a convenient way to describe how fast a function is growing. This website will dig more about what is Big O Notation and why does it matter, formal definition of Big O notation, Big O, Little O, Omega & Theta, complexity comparison between typical Big Os, time & space complexity, and best, average, worst, expected complexity.
+
+46. [SSDs vs Hard Drives as Fast As Possible (Video)](https://www.youtube.com/watch?v=YQEjGKYXjw8) <br>
+Usually we only know some secondary storage storage, the difference is only in speed. But actually the two of them are like apples and oranges . Because the storage is different from the structure. HDD is disk-based, really iron disks used to store data, while SSDs consist of flash memory chips, or commonly known as NAND.
+
+47. [Everything you need to know about NAND Flash](https://www.edn.com/flash-memory-101-an-introduction-to-nand-flash/) <br>
+Yes, NAND Flash is a kind of chip in which there are cells that can store data. Each NAND Flash also has its own level, some are for consumers, and some are for industry, where the content is denser, and the performance is usually higher .
+
+48. [How do hard drives work? - Kanawat Senanan (Video)](https://www.youtube.com/watch?v=wteUW2sL7bc) <br>
+How do the hard drives in our computers work? How can it develop so fast that once a small disk board can only store a few megabytes, now there are those with the same size that can store a lot of data, up to TeraByte units. It turns out, the data is stored with electricity and heat, so basically we have to find a way to be able to store binary values in bits that we can later retrieve as information, besides storing, what is the idea so that we can also read them? ️
+
+49. [RAID Reliability Calculator | Simple MTTDL Model | ServeTheHome](https://www.servethehome.com/raid-calculator/raid-reliability-calculator-simple-mttdl-model/) <br>
+Hard Drives can also be damaged or worn-out over time, there are applications that can estimate approximately how long a drive can be damaged.
+
+50. [RAID 0, RAID 1, RAID 10 - All You Need to Know as Fast As Possible (Video)](https://www.youtube.com/watch?v=eE7Bfw9lFfs) <br>
+We often hear about **RAID** but sometimes don't know what it means. RAID means redundant array of Inexpensive Disks, meaning using multiple disks to increase performance, meaning we basically combine the use of two drives or disks. In RAID 0, if for example one of the disks is damaged, a storage failure will occur because basically there is no recovery security system.
+
+51. [What are Drive Partitions? (Video)](https://www.youtube.com/watch?v=AeUM4kR67XQ) <br>
+Drive Partition is basically dividing a drive into several volumes or logical drives, with different file systems. So basically we can create a container for our memory. Then there is also the partition scheme or MBR and GPT partition table. On the MBR, we can't make partitions more than 2 TB, but we really can't access more than that. The difference is also in the BIOS and UEFI, for more details, see the video
+
+52.[Why you Shouldn't Low Level Format Your Hard Drive | Nostalgia Nerd (Video)](https://www.youtube.com/watch?v=RldQVSXdW0Y) <br>
+In formatting there are usually two types, the meaning of low level and high level format now and then is different. Usually the Quick format basically just ignores the index table. If we do full formatting we will generally write the data blank completely empty it, and this is tantamount to rewriting it actually. But there is another term High Level and Low Level, at low level the point is to actually do the formatting manually and has entered the mechanical level, nowadays it is no longer possible. For more details, see the video. Because the point has to do with the division of hardware sectors on our disk drives.
+
+53. [How Risky is Updating Your BIOS? ( + Corruption Demonstration) (Video)](https://www.youtube.com/watch?v=x3y-r06Mq2M) <br>
+BIOS is essentially a very low-level software which is the first program that runs on a computer, it is a firmware that knows how to *load* an operating system. Nowadays, it has been replaced with what is called UEFI. Of course, this BIOS also doesn't really need to be updated, because of course it will be risky when you want to do it.
+
+54. [systemd Tips and Tricks (Artikel 10 Menit)](https://avcourt.github.io/tiny-cluster/2019/08/01/systemd.html)<br>
+Systemd is the earliest process controller in linux, like the one we discussed last week, systemd is a very important process ancestor in linux, here we can take a closer look at some commands to test or see what the system is doing.
+
+55. [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+In addition to scheduling processes, the disk must also be managed by the operating system, why is it important? Because there are also many requests given to the disk, the difference is that there are different speeds and access methods for this disk, because usually the disk consists of several disks, moving too far can result in ineffectiveness, there are FCFS, SSTF algorithms, and some are sweeping , such as moving back and forth, and there is also CSCAN, LOOK, and CLOOK.
