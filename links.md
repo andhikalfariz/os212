@@ -171,3 +171,18 @@ Systemd is the earliest process controller in linux, like the one we discussed l
 
 55. [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
 In addition to scheduling processes, the disk must also be managed by the operating system, why is it important? Because there are also many requests given to the disk, the difference is that there are different speeds and access methods for this disk, because usually the disk consists of several disks, moving too far can result in ineffectiveness, there are FCFS, SSTF algorithms, and some are sweeping , such as moving back and forth, and there is also CSCAN, LOOK, and CLOOK.
+
+56. [Difference Between Serial and Parallel Transmission](https://techdifferences.com/difference-between-serial-and-parallel-transmission.html) <br>
+For transferring data between computers, laptops, two methods are used, namely, Serial Transmission and Parallel Transmission. There are some similarities and dissimilarities between them. One of the primary difference is that; in Serial Transmission, data is sent bit by bit whereas, in Parallel Transmission a byte (8 bits) or character is sent at a time.
+
+57. [Abstracting device-driver development](https://www.embedded.com/abstracting-device-driver-development/) <br>
+This article shows how you can apply an abstraction layer to the problem of device drivers for SBCs, with a common set of routines that interface the BSP and device driver. The routines enable you to write a device driver without knowing the specific BSP, underlying hardware, or processor type.
+
+58. [Direct Memory Access (DMA)](https://www.techopedia.com/definition/2767/direct-memory-access-dma) <br>
+Direct memory access (DMA) is a method that allows an input/output (I/O) device to send or receive data directly to or from the main memory, bypassing the CPU to speed up memory operations.
+
+59. [RECOVERING FROM LINUX HARD DRIVE FAILURES](https://www.usenix.org/blog/recovering-linux-hard-drive-failures) <br>
+The tutorial began with an explanation of the physical operation of hard drives and the various issues that can lead to failure. Head rashes occur when the read-write head scrapes the drive platters. Drive spin-up causes a little bit of damage to the head, which can lead to failure after many thousand spin-ups. Excessively violent impact of the read-write head on the platter can scrap away the iron oxide coating, resulting in tiny pieces flying around the drive enclosure, leading to further damage.
+
+60. [Fast I/O for Competitive Programming](https://www.geeksforgeeks.org/fast-io-for-competitive-programming/) <br>
+In competitive programming, it is important to read input as fast as possible so we save valuable time. You must have seen various problem statements saying: “Warning: Large I/O data, be careful with certain languages (though most should be OK if the algorithm is well designed)”. The key for such problems is to use Faster I/O techniques.
