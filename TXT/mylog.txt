@@ -138,3 +138,18 @@ ZCZC W09 180 L64 Helping OS related problem to a friend.
 ZCZC W09 60 L73 Gaming
 ZCZC W09 60 L81 Listening: Radio, Music, etc.
 ZCZC W09 60 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W10 60 L01 SCELE/Discord related
+ZCZC W10 100 L02 ZOOM meetings related
+ZCZC W10 60 L03 GitHub related
+ZCZC W10 60 L05 Quiz related
+ZCZC W10 30 L06 References/Books/Documents/GSGS related
+ZCZC W10 30 L08 AsDos: asking, etc.
+ZCZC W10 300 L20 Assignment #10
+ZCZC W10 60 L22 Quiz
+ZCZC W10 30 L23 Linux CLI including tar, etc.
+ZCZC W10 60 L31 VirtualBox: install GNU/Linux, etc
+ZCZC W10 60 L32 YouTube: study, etc.
+ZCZC W10 180 L64 Helping OS related problem to a friend. 
+ZCZC W10 60 L73 Gaming
+ZCZC W10 60 L81 Listening: Radio, Music, etc.
+ZCZC W10 60 L80 Waching: Movie, YouTube, TV, etc.
